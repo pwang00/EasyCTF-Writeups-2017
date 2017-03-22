@@ -9,6 +9,6 @@ To read the Thumbs.db file, I used a tool called [Thumbs Viewer](https://thumbsv
 
 Scanning it gives us the flag.
 
-##Flag
+## Flag
 >easyctf{thumbs.db_c4n_b3_useful}
 
